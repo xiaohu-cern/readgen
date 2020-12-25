@@ -14,9 +14,8 @@ git clone git@github.com:xiaohu-cern/readgen.git
 ```
 
 To setup the ssh keys, see this link
-```
 https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
-```
+
 Once you have the keys, do this setup everytime before your use git
 ```
 git config --global user.name YOUR NAME
