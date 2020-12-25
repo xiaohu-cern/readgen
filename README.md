@@ -7,6 +7,9 @@ The code is based on pythonic `DataFormats.FWLite`.
 # Author
 Xiaohu.Sun@cern.ch
 
+# Check out the repo
+git clone git@github.com:xiaohu-cern/readgen.git
+
 # Setup
 Use CMSSW_10_2_20_UL
 ```
